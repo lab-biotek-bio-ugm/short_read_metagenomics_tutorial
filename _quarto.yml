@@ -9,9 +9,9 @@ format:
     theme: yeti
     comments:
       hypothesis: true
-  docx: default
+  #docx: default
   #jats: default
-  pdf: default
+  #pdf: default
 
 execute:
   freeze: true

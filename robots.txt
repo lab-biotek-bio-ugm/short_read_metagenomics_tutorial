@@ -1,0 +1,1 @@
+Sitemap: https://lab-biotek-bio-ugm.github.io/short_read_metagenomics_tutorial/sitemap.xml

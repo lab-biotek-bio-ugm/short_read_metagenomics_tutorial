@@ -1,17 +1,17 @@
 project:
-  type: manuscript
+  type: website
 
-manuscript:
-  article: index.qmd
+website:
+  title: MAGs Assembly
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
 
 format:
   html:
-    theme: yeti
-    comments:
-      hypothesis: true
-  #docx: default
-  #jats: default
-  #pdf: default
+    theme: cosmo
+    toc: true
 
 execute:
   freeze: true
